@@ -15,3 +15,4 @@ This repository contains my structured AWS Cloud learning notes.
 7. [Automation and Infrastructure as Code](automation-and-infra-as-code/README.md)
 8. [DevOps Basics](devops-basics/README.md)
 9. [Real-World Projects](real-world-projects/README.md)
+10. [interview-questions](interview-questions/README.md)
